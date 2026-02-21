@@ -1,6 +1,6 @@
-# Spotify Clone — Project 2 (Video 84)
+# Spotify Clone 
 
-A simple front-end Spotify-like music player built as part of the "Sigma Web Dev Course" (Video 84 — Project 2).
+A simple front-end Spotify-like music player 
 
 ## Overview
 
